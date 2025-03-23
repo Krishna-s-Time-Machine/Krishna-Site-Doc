@@ -1,0 +1,452 @@
+(base) 
+󰀵  󱑍 08:49  ﱮ TIME-MACHINE-BLOGS    main  ➜  mkdir -p src/data/blog
+(base) 
+󰀵  󱑍 08:49  ﱮ TIME-MACHINE-BLOGS    main  ➜  git add .
+(base) 
+󰀵  󱑍 08:49  ﱮ TIME-MACHINE-BLOGS    main  ➜  git commit -m "Organized blog files in src/data/blog"
+On branch main
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+(base) 
+󰀵  󱑍 08:49  ﱮ TIME-MACHINE-BLOGS    main  ✗  git commit -m "Organized blog files in src/data/blog"
+On branch main
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+(base) 
+󰀵  󱑍 08:49  ﱮ TIME-MACHINE-BLOGS    main  ✗  git add .                                            
+(base) 
+󰀵  󱑍 08:49  ﱮ TIME-MACHINE-BLOGS    main  ➜  git commit -m "Organized blog files in src/data/blog"
+On branch main
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+(base) 
+󰀵  󱑍 08:50  ﱮ TIME-MACHINE-BLOGS    main  ✗  git add .
+(base) 
+󰀵  󱑍 08:50  ﱮ TIME-MACHINE-BLOGS    main + ➜  git commit -m "Organized blog files in src/data/blog"
+[main (root-commit) eafd9ab] Organized blog files in src/data/blog
+ 1 file changed, 32 insertions(+)
+ create mode 100644 src/data/blog/21MAR2025.md
+(base) 
+󰀵  󱑍 08:50  ﱮ TIME-MACHINE-BLOGS    main  ➜  git push
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (6/6), 1.17 KiB | 1.17 MiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+ * [new branch]      main -> main
+(base) 
+󰀵  󱑍 08:50  ﱮ TIME-MACHINE-BLOGS    main  ➜  git add .
+(base) 
+󰀵  󱑍 08:51  ﱮ TIME-MACHINE-BLOGS    main + ➜  git commit -m "Organized blog files in src/data/blog all old"
+[main 2fc5b26] Organized blog files in src/data/blog all old
+ 53 files changed, 2833 insertions(+)
+ create mode 100644 src/data/blog/02NOV2023.md
+ create mode 100644 src/data/blog/03NOV2023.md
+ create mode 100644 src/data/blog/07FEB2023.md
+ create mode 100644 src/data/blog/1-1C.md
+ create mode 100644 src/data/blog/20MAR2025.md
+ create mode 100644 src/data/blog/25042022.md
+ create mode 100644 src/data/blog/28JULY2023.md
+ create mode 100644 src/data/blog/BD2024.md
+ create mode 100644 src/data/blog/Blog1.md
+ create mode 100644 src/data/blog/CLG1.md
+ create mode 100644 src/data/blog/CS50CS2024.md
+ create mode 100644 src/data/blog/DESICISION PLAN.md
+ create mode 100644 src/data/blog/Dream.md
+ create mode 100644 src/data/blog/Dream3.md
+ create mode 100644 src/data/blog/Dream4.md
+ create mode 100644 src/data/blog/Dream8-1.md
+ create mode 100644 src/data/blog/Dream8.md
+ create mode 100644 src/data/blog/End of 2024-My Feelings.md
+ create mode 100644 src/data/blog/FEB22.md
+ create mode 100644 src/data/blog/FINAL DECISION.md
+ create mode 100644 src/data/blog/FIRSTBLOG.md
+ create mode 100644 src/data/blog/GPTTIME.md
+ create mode 100644 src/data/blog/HARSHIJAN2025.md
+ create mode 100644 src/data/blog/IDOLWEEKND.md
+ create mode 100644 src/data/blog/KHC1.md
+ create mode 100644 src/data/blog/KHC2.md
+ create mode 100644 src/data/blog/KHC4.md
+ create mode 100644 src/data/blog/KHC6.md
+ create mode 100644 src/data/blog/LOOP.md
+ create mode 100644 "src/data/blog/Lost in a World That Isn\342\200\231t Real.md"
+ create mode 100644 src/data/blog/MAR032025.md
+ create mode 100644 src/data/blog/MFbitch.md
+ create mode 100644 src/data/blog/NFC1.md
+ create mode 100644 src/data/blog/NOTE.md
+ create mode 100644 src/data/blog/NOV152024.md
+ create mode 100644 src/data/blog/Overthinking is just killing me..md
+ create mode 100644 src/data/blog/RLCF.md
+ create mode 100644 src/data/blog/SCAMTEJA.md
+ create mode 100644 src/data/blog/Stopagain2025.md
+ create mode 100644 src/data/blog/WHYMARRY.md
+ create mode 100644 src/data/blog/YEAREND2022.md
+ create mode 100644 src/data/blog/YEAREND2023.md
+ create mode 100644 src/data/blog/YEAREND2024.md
+ create mode 100644 src/data/blog/Year-End2022.md
+ create mode 100644 src/data/blog/adding-new-post.md
+ create mode 100644 src/data/blog/blog2.md
+ create mode 100644 src/data/blog/blog3.md
+ create mode 100644 src/data/blog/dream2023.md
+ create mode 100644 src/data/blog/harshieee.md
+ create mode 100644 src/data/blog/ransomware.md
+ create mode 100644 src/data/blog/suddden-call.md
+ create mode 100644 src/data/blog/theendisnear.md
+ create mode 100644 src/data/blog/umeshnov.md
+(base) 
+󰀵  󱑍 08:52  ﱮ TIME-MACHINE-BLOGS    main  ➜  git push
+\Enumerating objects: 62, done.
+Counting objects: 100% (62/62), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (55/55), done.
+Writing objects: 100% (58/58), 98.53 KiB | 12.32 MiB/s, done.
+Total 58 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+   eafd9ab..2fc5b26  main -> main
+(base) 
+󰀵  󱑍 08:52  ﱮ TIME-MACHINE-BLOGS    main  ➜  git add .
+(base) 
+󰀵  󱑍 13:46  ﱮ TIME-MACHINE-BLOGS    main + ➜  GIT_COMMITTER_DATE="2022-09-13 23:03:56" git commit --date="2022-09-13 23:03:56" -m "13SEP"
+[main d26cf4a] 13SEP
+ Date: Tue Sep 13 23:03:56 2022 +0530
+ 1 file changed, 99 insertions(+)
+ create mode 100644 src/data/blog/13SEP2022.md
+(base) 
+󰀵  󱑍 13:46  ﱮ TIME-MACHINE-BLOGS    main  ➜  git push
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (6/6), 2.26 KiB | 2.26 MiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+   2fc5b26..d26cf4a  main -> main
+(base) 
+󰀵  󱑍 13:46  ﱮ TIME-MACHINE-BLOGS    main  ➜  rm -rf src/data/blog
+
+(base) 
+󰀵  󱑍 15:52  ﱮ TIME-MACHINE-BLOGS    main ✘? ➜  git rm -f src/data/blog
+
+fatal: not removing 'src/data/blog' recursively without -r
+(base) 
+󰀵  󱑍 15:52  ﱮ TIME-MACHINE-BLOGS    main ✘? ✗  git rm -f src/data/blog
+fatal: not removing 'src/data/blog' recursively without -r
+(base) 
+󰀵  󱑍 15:52  ﱮ TIME-MACHINE-BLOGS    main ✘? ✗  git rm -f src/data/blog
+fatal: not removing 'src/data/blog' recursively without -r
+(base)
+󰀵  󱑍 15:52  ﱮ TIME-MACHINE-BLOGS    main ✘? ✗
+fatal: not removing 'src/data/blog' recursively without -r
+zsh: command not found: fatal:
+zsh: command not found: base
+zsh: no matches found: ✘?
+(base) 
+󰀵  󱑍 15:52  ﱮ TIME-MACHINE-BLOGS    main ✘? ✗  rm -rf src/data/blog
+
+(base) 
+󰀵  󱑍 15:53  ﱮ TIME-MACHINE-BLOGS    main ✘? ➜  git rm -r --cached src/data/blog
+rm 'src/data/blog/02NOV2023.md'
+rm 'src/data/blog/03NOV2023.md'
+rm 'src/data/blog/07FEB2023.md'
+rm 'src/data/blog/1-1C.md'
+rm 'src/data/blog/13SEP2022.md'
+rm 'src/data/blog/20MAR2025.md'
+rm 'src/data/blog/21MAR2025.md'
+rm 'src/data/blog/25042022.md'
+rm 'src/data/blog/28JULY2023.md'
+rm 'src/data/blog/BD2024.md'
+rm 'src/data/blog/Blog1.md'
+rm 'src/data/blog/CLG1.md'
+rm 'src/data/blog/CS50CS2024.md'
+rm 'src/data/blog/DESICISION PLAN.md'
+rm 'src/data/blog/Dream.md'
+rm 'src/data/blog/Dream3.md'
+rm 'src/data/blog/Dream4.md'
+rm 'src/data/blog/Dream8-1.md'
+rm 'src/data/blog/Dream8.md'
+rm 'src/data/blog/End of 2024-My Feelings.md'
+rm 'src/data/blog/FEB22.md'
+rm 'src/data/blog/FINAL DECISION.md'
+rm 'src/data/blog/FIRSTBLOG.md'
+rm 'src/data/blog/GPTTIME.md'
+rm 'src/data/blog/HARSHIJAN2025.md'
+rm 'src/data/blog/IDOLWEEKND.md'
+rm 'src/data/blog/KHC1.md'
+rm 'src/data/blog/KHC2.md'
+rm 'src/data/blog/KHC4.md'
+rm 'src/data/blog/KHC6.md'
+rm 'src/data/blog/LOOP.md'
+rm 'src/data/blog/Lost in a World That Isn’t Real.md'
+rm 'src/data/blog/MAR032025.md'
+rm 'src/data/blog/MFbitch.md'
+rm 'src/data/blog/NFC1.md'
+rm 'src/data/blog/NOTE.md'
+rm 'src/data/blog/NOV152024.md'
+rm 'src/data/blog/Overthinking is just killing me..md'
+rm 'src/data/blog/RLCF.md'
+rm 'src/data/blog/SCAMTEJA.md'
+rm 'src/data/blog/Stopagain2025.md'
+rm 'src/data/blog/WHYMARRY.md'
+rm 'src/data/blog/YEAREND2022.md'
+rm 'src/data/blog/YEAREND2023.md'
+rm 'src/data/blog/YEAREND2024.md'
+rm 'src/data/blog/Year-End2022.md'
+rm 'src/data/blog/adding-new-post.md'
+rm 'src/data/blog/blog2.md'
+rm 'src/data/blog/blog3.md'
+rm 'src/data/blog/dream2023.md'
+rm 'src/data/blog/harshieee.md'
+rm 'src/data/blog/ransomware.md'
+rm 'src/data/blog/suddden-call.md'
+rm 'src/data/blog/theendisnear.md'
+rm 'src/data/blog/umeshnov.md'
+(base) 
+󰀵  󱑍 15:53  ﱮ TIME-MACHINE-BLOGS    main ✘? ➜  git commit -m "Removed incorrect nested submodule"
+
+[main fe7c1a8] Removed incorrect nested submodule
+ 55 files changed, 2964 deletions(-)
+ delete mode 100644 src/data/blog/02NOV2023.md
+ delete mode 100644 src/data/blog/03NOV2023.md
+ delete mode 100644 src/data/blog/07FEB2023.md
+ delete mode 100644 src/data/blog/1-1C.md
+ delete mode 100644 src/data/blog/13SEP2022.md
+ delete mode 100644 src/data/blog/20MAR2025.md
+ delete mode 100644 src/data/blog/21MAR2025.md
+ delete mode 100644 src/data/blog/25042022.md
+ delete mode 100644 src/data/blog/28JULY2023.md
+ delete mode 100644 src/data/blog/BD2024.md
+ delete mode 100644 src/data/blog/Blog1.md
+ delete mode 100644 src/data/blog/CLG1.md
+ delete mode 100644 src/data/blog/CS50CS2024.md
+ delete mode 100644 src/data/blog/DESICISION PLAN.md
+ delete mode 100644 src/data/blog/Dream.md
+ delete mode 100644 src/data/blog/Dream3.md
+ delete mode 100644 src/data/blog/Dream4.md
+ delete mode 100644 src/data/blog/Dream8-1.md
+ delete mode 100644 src/data/blog/Dream8.md
+ delete mode 100644 src/data/blog/End of 2024-My Feelings.md
+ delete mode 100644 src/data/blog/FEB22.md
+ delete mode 100644 src/data/blog/FINAL DECISION.md
+ delete mode 100644 src/data/blog/FIRSTBLOG.md
+ delete mode 100644 src/data/blog/GPTTIME.md
+ delete mode 100644 src/data/blog/HARSHIJAN2025.md
+ delete mode 100644 src/data/blog/IDOLWEEKND.md
+ delete mode 100644 src/data/blog/KHC1.md
+ delete mode 100644 src/data/blog/KHC2.md
+ delete mode 100644 src/data/blog/KHC4.md
+ delete mode 100644 src/data/blog/KHC6.md
+ delete mode 100644 src/data/blog/LOOP.md
+ delete mode 100644 "src/data/blog/Lost in a World That Isn\342\200\231t Real.md"
+ delete mode 100644 src/data/blog/MAR032025.md
+ delete mode 100644 src/data/blog/MFbitch.md
+ delete mode 100644 src/data/blog/NFC1.md
+ delete mode 100644 src/data/blog/NOTE.md
+ delete mode 100644 src/data/blog/NOV152024.md
+ delete mode 100644 src/data/blog/Overthinking is just killing me..md
+ delete mode 100644 src/data/blog/RLCF.md
+ delete mode 100644 src/data/blog/SCAMTEJA.md
+ delete mode 100644 src/data/blog/Stopagain2025.md
+ delete mode 100644 src/data/blog/WHYMARRY.md
+ delete mode 100644 src/data/blog/YEAREND2022.md
+ delete mode 100644 src/data/blog/YEAREND2023.md
+ delete mode 100644 src/data/blog/YEAREND2024.md
+ delete mode 100644 src/data/blog/Year-End2022.md
+ delete mode 100644 src/data/blog/adding-new-post.md
+ delete mode 100644 src/data/blog/blog2.md
+ delete mode 100644 src/data/blog/blog3.md
+ delete mode 100644 src/data/blog/dream2023.md
+ delete mode 100644 src/data/blog/harshieee.md
+ delete mode 100644 src/data/blog/ransomware.md
+ delete mode 100644 src/data/blog/suddden-call.md
+ delete mode 100644 src/data/blog/theendisnear.md
+ delete mode 100644 src/data/blog/umeshnov.md
+(base) 
+󰀵  󱑍 15:53  ﱮ TIME-MACHINE-BLOGS    main ? ➜  git push origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (2/2), 216 bytes | 216.00 KiB/s, done.
+Total 2 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+   d26cf4a..fe7c1a8  main -> main
+(base) 
+󰀵  󱑍 15:53  ﱮ TIME-MACHINE-BLOGS    main ? ➜  git submodule add -b main git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git src/data/blog
+
+Cloning into '/Users/krishnachaitanya/Documents/GitHub/TIME-MACHINE-BLOGS/src/data/blog'...
+remote: Enumerating objects: 72, done.
+remote: Counting objects: 100% (72/72), done.
+remote: Compressing objects: 100% (60/60), done.
+remote: Total 72 (delta 2), reused 71 (delta 1), pack-reused 0 (from 0)
+Receiving objects: 100% (72/72), 101.99 KiB | 274.00 KiB/s, done.
+Resolving deltas: 100% (2/2), done.
+(base) 
+󰀵  󱑍 15:53  ﱮ TIME-MACHINE-BLOGS    main +? ➜  git add .
+(base) 
+󰀵  󱑍 15:56  ﱮ TIME-MACHINE-BLOGS    main + ➜  git commit -
+m "reupload"
+[main cdf49ae] reupload
+ 56 files changed, 2964 insertions(+)
+ create mode 100644 .DS_Store
+ create mode 100644 02NOV2023.md
+ create mode 100644 03NOV2023.md
+ create mode 100644 07FEB2023.md
+ create mode 100644 1-1C.md
+ create mode 100644 13SEP2022.md
+ create mode 100644 20MAR2025.md
+ create mode 100644 21MAR2025.md
+ create mode 100644 25042022.md
+ create mode 100644 28JULY2023.md
+ create mode 100644 BD2024.md
+ create mode 100644 Blog1.md
+ create mode 100644 CLG1.md
+ create mode 100644 CS50CS2024.md
+ create mode 100644 DESICISION PLAN.md
+ create mode 100644 Dream.md
+ create mode 100644 Dream3.md
+ create mode 100644 Dream4.md
+ create mode 100644 Dream8-1.md
+ create mode 100644 Dream8.md
+ create mode 100644 End of 2024-My Feelings.md
+ create mode 100644 FEB22.md
+ create mode 100644 FINAL DECISION.md
+ create mode 100644 FIRSTBLOG.md
+ create mode 100644 GPTTIME.md
+ create mode 100644 HARSHIJAN2025.md
+ create mode 100644 IDOLWEEKND.md
+ create mode 100644 KHC1.md
+ create mode 100644 KHC2.md
+ create mode 100644 KHC4.md
+ create mode 100644 KHC6.md
+ create mode 100644 LOOP.md
+ create mode 100644 "Lost in a World That Isn\342\200\231t Real.md"
+ create mode 100644 MAR032025.md
+ create mode 100644 MFbitch.md
+ create mode 100644 NFC1.md
+ create mode 100644 NOTE.md
+ create mode 100644 NOV152024.md
+ create mode 100644 Overthinking is just killing me..md
+ create mode 100644 RLCF.md
+ create mode 100644 SCAMTEJA.md
+ create mode 100644 Stopagain2025.md
+ create mode 100644 WHYMARRY.md
+ create mode 100644 YEAREND2022.md
+ create mode 100644 YEAREND2023.md
+ create mode 100644 YEAREND2024.md
+ create mode 100644 Year-End2022.md
+ create mode 100644 adding-new-post.md
+ create mode 100644 blog2.md
+ create mode 100644 blog3.md
+ create mode 100644 dream2023.md
+ create mode 100644 harshieee.md
+ create mode 100644 ransomware.md
+ create mode 100644 suddden-call.md
+ create mode 100644 theendisnear.md
+ create mode 100644 umeshnov.md
+(base) 
+󰀵  󱑍 15:56  ﱮ TIME-MACHINE-BLOGS    main  ➜  git push
+Enumerating objects: 59, done.
+Counting objects: 100% (59/59), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (58/58), done.
+Writing objects: 100% (58/58), 101.53 KiB | 12.69 MiB/s, done.
+Total 58 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+   fe7c1a8..cdf49ae  main -> main
+(base) 
+󰀵  󱑍 15:56  ﱮ TIME-MACHINE-BLOGS    main  ➜  git add .
+(base) 
+󰀵  󱑍 16:42  ﱮ TIME-MACHINE-BLOGS    main »+ ➜  git commit 
+-m "update"
+[main 62db60c] update
+ 56 files changed, 0 insertions(+), 0 deletions(-)
+ rename 02NOV2023.md => src/data/blog/02NOV2023.md (100%)
+ rename 03NOV2023.md => src/data/blog/03NOV2023.md (100%)
+ rename 07FEB2023.md => src/data/blog/07FEB2023.md (100%)
+ rename 1-1C.md => src/data/blog/1-1C.md (100%)
+ rename 13SEP2022.md => src/data/blog/13SEP2022.md (100%)
+ rename 20MAR2025.md => src/data/blog/20MAR2025.md (100%)
+ rename 21MAR2025.md => src/data/blog/21MAR2025.md (100%)
+ rename 25042022.md => src/data/blog/25042022.md (100%)
+ rename 28JULY2023.md => src/data/blog/28JULY2023.md (100%)
+ rename BD2024.md => src/data/blog/BD2024.md (100%)
+ rename Blog1.md => src/data/blog/Blog1.md (100%)
+ rename CLG1.md => src/data/blog/CLG1.md (100%)
+ rename CS50CS2024.md => src/data/blog/CS50CS2024.md (100%)
+ rename DESICISION PLAN.md => src/data/blog/DESICISION PLAN.md (100%)
+ rename Dream.md => src/data/blog/Dream.md (100%)
+ rename Dream3.md => src/data/blog/Dream3.md (100%)
+ rename Dream4.md => src/data/blog/Dream4.md (100%)
+ rename Dream8-1.md => src/data/blog/Dream8-1.md (100%)
+ rename Dream8.md => src/data/blog/Dream8.md (100%)
+ rename End of 2024-My Feelings.md => src/data/blog/End of 2024-My Feelings.md (100%)
+ rename FEB22.md => src/data/blog/FEB22.md (100%)
+ rename FINAL DECISION.md => src/data/blog/FINAL DECISION.md (100%)
+ rename FIRSTBLOG.md => src/data/blog/FIRSTBLOG.md (100%)
+ rename GPTTIME.md => src/data/blog/GPTTIME.md (100%)
+ rename HARSHIJAN2025.md => src/data/blog/HARSHIJAN2025.md (100%)
+ rename IDOLWEEKND.md => src/data/blog/IDOLWEEKND.md (100%)
+ rename KHC1.md => src/data/blog/KHC1.md (100%)
+ rename KHC2.md => src/data/blog/KHC2.md (100%)
+ rename KHC4.md => src/data/blog/KHC4.md (100%)
+ rename KHC6.md => src/data/blog/KHC6.md (100%)
+ rename LOOP.md => src/data/blog/LOOP.md (100%)
+ rename "Lost in a World That Isn\342\200\231t Real.md" => "src/data/blog/Lost in a World That Isn\342\200\231t Real.md" (100%)
+ rename MAR032025.md => src/data/blog/MAR032025.md (100%)
+ rename MFbitch.md => src/data/blog/MFbitch.md (100%)
+ rename NFC1.md => src/data/blog/NFC1.md (100%)
+ rename NOTE.md => src/data/blog/NOTE.md (100%)
+ rename NOV152024.md => src/data/blog/NOV152024.md (100%)
+ rename Overthinking is just killing me..md => src/data/blog/Overthinking is just killing me..md (100%)
+ rename RLCF.md => src/data/blog/RLCF.md (100%)
+ rename SCAMTEJA.md => src/data/blog/SCAMTEJA.md (100%)
+ rename Stopagain2025.md => src/data/blog/Stopagain2025.md (100%)
+ rename WHYMARRY.md => src/data/blog/WHYMARRY.md (100%)
+ rename YEAREND2022.md => src/data/blog/YEAREND2022.md (100%)
+ rename YEAREND2023.md => src/data/blog/YEAREND2023.md (100%)
+ rename YEAREND2024.md => src/data/blog/YEAREND2024.md (100%)
+ rename Year-End2022.md => src/data/blog/Year-End2022.md (100%)
+ rename adding-new-post.md => src/data/blog/adding-new-post.md (100%)
+ rename blog2.md => src/data/blog/blog2.md (100%)
+ rename blog3.md => src/data/blog/blog3.md (100%)
+ rename dream2023.md => src/data/blog/dream2023.md (100%)
+ rename harshieee.md => src/data/blog/harshieee.md (100%)
+ rename ransomware.md => src/data/blog/ransomware.md (100%)
+ rename suddden-call.md => src/data/blog/suddden-call.md (100%)
+ rename theendisnear.md => src/data/blog/theendisnear.md (100%)
+ rename umeshnov.md => src/data/blog/umeshnov.md (100%)
+(base) 
+󰀵  󱑍 16:43  ﱮ TIME-MACHINE-BLOGS    main  ➜  git push
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (6/6), 2.10 KiB | 2.10 MiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+   cdf49ae..62db60c  main -> main
+(base) 
+󰀵  󱑍 16:43  ﱮ TIME-MACHINE-BLOGS    main  ➜  your_command | tee output.txt
+zsh: command not found: your_command
+(base) 
+󰀵  󱑍 19:54  ﱮ TIME-MACHINE-BLOGS    main ? ➜  exec &> >(tee -a ~/vscode_terminal_log.txt)
+(base) 
+󰀵  󱑍 19:55  ﱮ TIME-MACHINE-BLOGS    main ? ➜  Start-Transcript -Path "$HOME\terminal_output.txt" -Append
+zsh: command not found: Start-Transcript
+(base) 
+󰀵  󱑍 19:55  ﱮ TIME-MACHINE-BLOGS    main  ✗  script -a terminal_output.txt
+(base) 
+󰀵  󱑍 19:56  ﱮ TIME-MACHINE-BLOGS    main ? ➜  ls
+src                     terminal_output.txt
+(base) 
+󰀵  󱑍 19:57  ﱮ TIME-MACHINE-BLOGS    main ? ➜  exec &> >(tee -a terminal_output.txt)
+(base) 
+󰀵  󱑍 19:57  ﱮ TIME-MACHINE-BLOGS    main ? ➜  
