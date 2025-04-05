@@ -1,0 +1,13 @@
+Subject,Start Date,Start Time,End Date,End Time,All Day Event,Reminder,Description
+Wake Up,2025-04-03,06:00 AM,2025-04-03,06:10 AM,False,Alarm - 5 minutes before,"Time to wake up! Start with a glass of water. Stay consistent."
+IELTS Preparation,2025-04-03,06:30 AM,2025-04-03,08:00 AM,False,Alarm - 10 minutes before,"IELTS study session! Focus on reading, writing, and speaking. No distractions."
+Breakfast,2025-04-03,08:00 AM,2025-04-03,08:30 AM,False,Alarm - 5 minutes before,"Eat a proper breakfast—idli, dosa, or oats. Fuel up for the gym!"
+Gym Workout,2025-04-03,09:00 AM,2025-04-03,12:00 PM,False,Alarm - 15 minutes before,"Gym time! Push hard, focus on form, and don’t skip the last reps."
+Post-Gym Meal,2025-04-03,12:30 PM,2025-04-03,01:00 PM,False,Alarm - 5 minutes before,"Eat your post-workout meal—rice, curry, egg. Recovery is just as important!"
+Rest,2025-04-03,01:00 PM,2025-04-03,02:00 PM,False,Alarm - 5 minutes before,"Take a break. Let your body recover and recharge."
+Work/Studies,2025-04-03,02:00 PM,2025-04-03,05:00 PM,False,Alarm - 10 minutes before,"Time to focus. No distractions—just pure work or studies for the next 3 hours."
+Evening Snack,2025-04-03,05:00 PM,2025-04-03,05:30 PM,False,Alarm - 5 minutes before,"Quick snack—boiled beans for extra protein. Keep the energy up!"
+IELTS Preparation,2025-04-03,06:00 PM,2025-04-03,07:30 PM,False,Alarm - 10 minutes before,"Second IELTS session. Stay focused, practice speaking, and review weak areas."
+Dinner,2025-04-03,08:00 PM,2025-04-03,08:30 PM,False,Alarm - 5 minutes before,"Dinner time—rice with protein. No skipping meals!"
+Relaxation/Free Time,2025-04-03,08:30 PM,2025-04-03,09:30 PM,False,Alarm - 5 minutes before,"Chill time! Do something you enjoy—watch something or just relax."
+Sleep,2025-04-03,10:00 PM,2025-04-04,06:00 AM,False,Alarm - 10 minutes before,"Get to bed! 8 hours of sleep is a must. Recovery = gains."

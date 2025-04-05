@@ -1,0 +1,1022 @@
+Fast-forward
+ .DS_Store                       | Bin 0 -> 6148 bytes
+ 02NOV2023.md                    |  43 ++
+ 03NOV2023.md                    |  62 +++
+ 07FEB2023.md                    |  51 +++
+ 1-1C.md                         |  50 +++
+ 13SEP2022.md                    |  99 +++++
+ 20MAR2025.md                    |  42 ++
+ 21MAR2025.md                    |  32 ++
+ 25042022.md                     | 158 +++++++
+ 28JULY2023.md                   |  36 ++
+ BD2024.md                       |  49 +++
+ Blog1.md                        | 109 +++++
+ CLG1.md                         |  42 ++
+ CS50CS2024.md                   |  35 ++
+ DESICISION PLAN.md              |  83 ++++
+ Dream.md                        |  90 ++++
+ Dream3.md                       |  54 +++
+ Dream4.md                       |  54 +++
+ Dream8-1.md                     |  50 +++
+ Dream8.md                       |  38 ++
+ End of 2024-My Feelings.md      |  25 ++
+ FEB22.md                        |  27 ++
+ FINAL DECISION.md               |  44 ++
+ FIRSTBLOG.md                    |  30 ++
+ GPTTIME.md                      |  36 ++
+ HARSHIJAN2025.md                |  48 +++
+ IDOLWEEKND.md                   |  43 ++
+ KHC1.md                         |  31 ++
+ KHC2.md                         |  44 ++
+ KHC4.md                         |  33 ++
+ KHC6.md                         |  60 +++
+ LOOP.md                         |  32 ++
+ ...at Isn\342\200\231t Real.md" |  32 ++
+ MAR032025.md                    |  28 ++
+ MFbitch.md                      |  49 +++
+ NFC1.md                         |  39 ++
+ NOTE.md                         |  32 ++
+ NOV152024.md                    |  28 ++
+ ...nking is just killing me..md |  30 ++
+ RLCF.md                         |  42 ++
+ SCAMTEJA.md                     |  68 +++
+ Stopagain2025.md                |  33 ++
+ WHYMARRY.md                     |  47 ++
+ YEAREND2022.md                  |  56 +++
+ YEAREND2023.md                  |  26 ++
+ YEAREND2024.md                  |  54 +++
+ Year-End2022.md                 |  34 ++
+ adding-new-post.md              | 192 +++++++++
+ blog2.md                        |  62 +++
+ blog3.md                        | 115 +++++
+ dream2023.md                    |  68 +++
+ harshieee.md                    |  37 ++
+ ransomware.md                   |  53 +++
+ suddden-call.md                 | 124 ++++++
+ theendisnear.md                 |  39 ++
+ umeshnov.md                     |  46 ++
+ 56 files changed, 2964 insertions(+)
+ create mode 100644 .DS_Store
+ create mode 100644 02NOV2023.md
+ create mode 100644 03NOV2023.md
+ create mode 100644 07FEB2023.md
+ create mode 100644 1-1C.md
+ create mode 100644 13SEP2022.md
+ create mode 100644 20MAR2025.md
+ create mode 100644 21MAR2025.md
+ create mode 100644 25042022.md
+ create mode 100644 28JULY2023.md
+ create mode 100644 BD2024.md
+ create mode 100644 Blog1.md
+ create mode 100644 CLG1.md
+ create mode 100644 CS50CS2024.md
+ create mode 100644 DESICISION PLAN.md
+ create mode 100644 Dream.md
+ create mode 100644 Dream3.md
+ create mode 100644 Dream4.md
+ create mode 100644 Dream8-1.md
+ create mode 100644 Dream8.md
+ create mode 100644 End of 2024-My Feelings.md
+ create mode 100644 FEB22.md
+ create mode 100644 FINAL DECISION.md
+ create mode 100644 FIRSTBLOG.md
+ create mode 100644 GPTTIME.md
+ create mode 100644 HARSHIJAN2025.md
+ create mode 100644 IDOLWEEKND.md
+ create mode 100644 KHC1.md
+ create mode 100644 KHC2.md
+ create mode 100644 KHC4.md
+ create mode 100644 KHC6.md
+ create mode 100644 LOOP.md
+ create mode 100644 "Lost in a World That Isn\342\200\231t Real.md"
+ create mode 100644 MAR032025.md
+ create mode 100644 MFbitch.md
+ create mode 100644 NFC1.md
+ create mode 100644 NOTE.md
+ create mode 100644 NOV152024.md
+ create mode 100644 Overthinking is just killing me..md
+ create mode 100644 RLCF.md
+ create mode 100644 SCAMTEJA.md
+ create mode 100644 Stopagain2025.md
+ create mode 100644 WHYMARRY.md
+ create mode 100644 YEAREND2022.md
+ create mode 100644 YEAREND2023.md
+ create mode 100644 YEAREND2024.md
+ create mode 100644 Year-End2022.md
+ create mode 100644 adding-new-post.md
+ create mode 100644 blog2.md
+ create mode 100644 blog3.md
+ create mode 100644 dream2023.md
+ create mode 100644 harshieee.md
+ create mode 100644 ransomware.md
+ create mode 100644 suddden-call.md
+ create mode 100644 theendisnear.md
+ create mode 100644 umeshnov.md
+[LIVE 12e9d52c] Updated blog submodule
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 367 bytes | 367.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Krishna-s-Time-Machine/Time-Machine.git
+   8bc63162..12e9d52c  LIVE -> LIVE
+Blog submodule updated successfully on LIVE branch!
+(base) 
+󰀵  󱑍 15:59  ﱮ Krishna-Website    LIVE $!?+5 ➜  ssh-keygen -t rsa -b 4096 -C "ekrishnachaitanya2004@gmail.com" -f netlify_deploy_key
+Generating public/private rsa key pair.
+netlify_deploy_key already exists.
+Overwrite (y/n)? y
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in netlify_deploy_key
+Your public key has been saved in netlify_deploy_key.pub
+The key fingerprint is:
+SHA256:XmkNmr6bcNmcdkEhbWcOvI9ahlcy6Dji5jEMnPVkCRg ekrishnachaitanya2004@gmail.com
+The key's randomart image is:
++---[RSA 4096]----+
+|    Eo.   .o.    |
+|    .  . . .=.o  |
+|      . + .o.*   |
+|   . o + o.=+ o  |
+|    +   So+.o*   |
+|     o.oo*o.=..  |
+|     .=.=.==.    |
+|      o= +..     |
+|     o. +.       |
++----[SHA256]-----+
+(base) 
+󰀵  󱑍 16:00  ﱮ Krishna-Website    LIVE $!?+5 ➜  cat netlify_deploy_key.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDFJePeExHSPd8bf9Z3sLfzKeIKKNSiizz0N8gyxe632TOd6ssm0QgL5MzIMVwWfDabd+qAxKQwh8hulThi1Sux+TLZv78dRdOW2qB0/jVem69YW0WN8IDL+T32h5QMiTyIngt8f0JxVNcp1gqlkll7nLRfHGau9onAfnt2TqsKRG5NOIKcl/0zWS2s/kcG9dC+sQslqqx+QzZn95emZ2XDBm+Wi9VF6m93TwrC3CmBwXSHV+NN9/anbCJ41uGWM+DegjWG7A2ERo5wtOTBILvbPRBI63EIXLgsr6VXsGdA3eWcm4iN6Tb/QbDCcXH9HmlWPpVX92UFcLdooRntpztKNCwezxWM2ng+5v/tItiQdCui1TnwlHYtf/xQlhN8f81VEk5urvE6lRdJI6zz+p8fxs/BPOJEzCs7kFFLoH8M1/lfg9i1tjVfM5HJQUb75WAMaifC+2nXqW8hTA7S0NUv5EFSg1cbwoyMgpBuXPKHHEqe14cAK5LJF4Vh7FDDZmKv4cF2LEi0CS7V2byES4XkcdmHvypQWiidfNraXkxlN5m+Qcae9k+lHeKlMreIEDXsNXVMb9KWw/TK0rOYE06M0+AhfW55eoK7l++C5ZNHmZo/8W/yLyACXbZwaABe/21N70bJI/tCXEUMa7B1VVrflHwUs+aoCn+LCf/VfQVt4w== ekrishnachaitanya2004@gmail.com
+(base) 
+󰀵  󱑍 16:02  ﱮ Krishna-Website    LIVE $!?+5 ➜  cat netlify_deploy_key    
+-----BEGIN OPENSSH PRIVATE KEY-----
+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
+-----END OPENSSH PRIVATE KEY-----
+(base) 
+󰀵  󱑍 16:03  ﱮ Krishna-Website    LIVE $!?+5 ➜  git config --file .gitmodules --get-regexp url
+submodule.src/data/blog.url git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+(base) 
+󰀵  󱑍 16:11  ﱮ Krishna-Website    LIVE $!?+5 ➜  submodule.src/data/blog.url https://github.com/ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+zsh: no such file or directory: submodule.src/data/blog.url
+(base) 
+󰀵  󱑍 16:11  ﱮ Krishna-Website    LIVE $!?+5 ✗  cat .gitmodules
+[submodule "src/data/blog"]
+        path = src/data/blog
+        url = git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+        branch = main
+(base) 
+󰀵  󱑍 16:11  ﱮ Krishna-Website    LIVE $!?+5 ➜  ssh -T git@github.com
+Hi ekrishnachaitanya2004! You've successfully authenticated, but GitHub does not provide shell access.
+(base) 
+󰀵  󱑍 16:33  ﱮ Krishna-Website    LIVE $!?+5 ✗  cat .gitmodules
+[submodule "src/data/blog"]
+        path = src/data/blog
+        url = git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+        branch = main
+(base) 
+󰀵  󱑍 16:33  ﱮ Krishna-Website    LIVE $!?+5 ➜  git submodule deinit -f -- src/data/blog
+
+Cleared directory 'src/data/blog'
+Submodule 'src/data/blog' (git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git) unregistered for path 'src/data/blog'
+(base) 
+󰀵  󱑍 16:38  ﱮ Krishna-Website    LIVE $!?+5 ➜  git rm -rf src/data/blog
+
+rm 'src/data/blog'
+(base) 
+󰀵  󱑍 16:38  ﱮ Krishna-Website    LIVE $✘!+?+5 ➜  git submodule add -b main git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git src/data/blog
+
+fatal: A git directory for 'src/data/blog' is found locally with remote(s):
+  origin        git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+If you want to reuse this local git directory instead of cloning again from
+  git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+use the '--force' option. If the local git directory is not the correct repo
+or you are unsure what this means choose another name with the '--name' option.
+(base) 
+󰀵  󱑍 16:38  ﱮ Krishna-Website    LIVE $✘!+?+5 ✗  git submodule add -b main git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git           
+Cloning into '/Users/krishnachaitanya/Documents/GitHub/Krishna-Website/TIME-MACHINE-BLOGS'...
+remote: Enumerating objects: 75, done.
+remote: Counting objects: 100% (75/75), done.
+remote: Compressing objects: 100% (63/63), done.
+remote: Total 75 (delta 3), reused 73 (delta 1), pack-reused 0 (from 0)
+Receiving objects: 100% (75/75), 102.60 KiB | 275.00 KiB/s, done.
+Resolving deltas: 100% (3/3), done.
+(base) 
+󰀵  󱑍 16:38  ﱮ Krishna-Website    LIVE $»!+?+5 ➜  pnpm run dev
+
+> astro-paper@5.0.0 dev /Users/krishnachaitanya/Documents/GitHub/Krishna-Website
+> astro dev
+
+16:39:24 [types] Generated 1ms
+16:39:25 [content] Syncing content
+16:39:25 [WARN] [glob-loader] The base directory "/Users/krishnachaitanya/Documents/GitHub/Krishna-Website/src/data/blog/" does not exist.
+16:39:25 [content] Synced content
+16:39:25 [vite] Port 4321 is in use, trying another one...
+16:39:25 [vite] Port 4322 is in use, trying another one...
+16:39:25 [vite] Port 4323 is in use, trying another one...
+16:39:25 [vite] Port 4324 is in use, trying another one...
+
+ astro  v5.4.2 ready in 577 ms
+
+┃ Local    http://localhost:4325/
+┃ Network  use --host to expose
+
+16:39:25 watching for file changes...
+16:39:30 [200] / 95ms
+^Z
+zsh: suspended  pnpm run dev
+(base) 
+󰀵  󱑍 16:39  ﱮ Krishna-Website    LIVE $»!+?+5 ✗  git submodule add -b main git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git src/data/blog
+
+fatal: A git directory for 'src/data/blog' is found locally with remote(s):
+  origin        git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+If you want to reuse this local git directory instead of cloning again from
+  git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+use the '--force' option. If the local git directory is not the correct repo
+or you are unsure what this means choose another name with the '--name' option.
+(base) 
+󰀵  󱑍 16:39  ﱮ Krishna-Website    LIVE $»!+?+5 ✗  git submodule deinit -f --              
+fatal: Use '--all' if you really want to deinitialize all submodules
+(base) 
+󰀵  󱑍 16:40  ﱮ Krishna-Website    LIVE $»!+?+5 ✗  git submodule deinit -f -- src/data/blog
+
+error: pathspec 'src/data/blog' did not match any file(s) known to git
+(base) 
+󰀵  󱑍 16:40  ﱮ Krishna-Website    LIVE $»!+?+5 ✗  git submodule deinit -f -- src/data/blog
+
+error: pathspec 'src/data/blog' did not match any file(s) known to git
+(base) 
+󰀵  󱑍 16:40  ﱮ Krishna-Website    LIVE $✘»!+?+5 ✗  git config --file .gitmodules --get-regexp path
+submodule.TIME-MACHINE-BLOGS.path TIME-MACHINE-BLOGS
+(base) 
+󰀵  󱑍 16:41  ﱮ Krishna-Website    LIVE $✘»!+?+5 ➜  git submodule deinit -f -- TIME-MACHINE-BLOGS
+
+Submodule 'TIME-MACHINE-BLOGS' (git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git) unregistered for path 'TIME-MACHINE-BLOGS'
+(base) 
+󰀵  󱑍 16:41  ﱮ Krishna-Website    LIVE $»!+?+5 ➜  git rm -f TIME-MACHINE-BLOGS
+
+rm 'TIME-MACHINE-BLOGS'
+(base) 
+󰀵  󱑍 16:41  ﱮ Krishna-Website    LIVE $✘!+?+5 ➜  rm -rf .git/modules/TIME-MACHINE-BLOGS
+
+(base) 
+󰀵  󱑍 16:41  ﱮ Krishna-Website    LIVE $✘!+?+5 ➜  git commit -m "Removed incorrectly added submodule TIME-MACHINE-BLOGS"
+
+[LIVE 3543019f] Removed incorrectly added submodule TIME-MACHINE-BLOGS
+ 2 files changed, 5 deletions(-)
+ delete mode 160000 src/data/blog
+(base) 
+󰀵  󱑍 16:41  ﱮ Krishna-Website    LIVE $!?+5 ➜  git push origin LIVE
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 368 bytes | 368.00 KiB/s, done.
+Total 4 (delta 2), reused 1 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Krishna-s-Time-Machine/Time-Machine.git
+   12e9d52c..3543019f  LIVE -> LIVE
+(base) 
+󰀵  󱑍 16:41  ﱮ Krishna-Website    LIVE $!?+5 ➜  git submodule status 
+(base) 
+󰀵  󱑍 16:41  ﱮ Krishna-Website    LIVE $!?+5 ➜  git submodule add -b main git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git src/data/blog
+
+fatal: A git directory for 'src/data/blog' is found locally with remote(s):
+  origin        git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+If you want to reuse this local git directory instead of cloning again from
+  git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+use the '--force' option. If the local git directory is not the correct repo
+or you are unsure what this means choose another name with the '--name' option.
+(base) 
+󰀵  󱑍 16:41  ﱮ Krishna-Website    LIVE $!?+5 ✗  git submodule add -b main git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git src/data/blog
+
+fatal: A git directory for 'src/data/blog' is found locally with remote(s):
+  origin        git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+If you want to reuse this local git directory instead of cloning again from
+  git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+use the '--force' option. If the local git directory is not the correct repo
+or you are unsure what this means choose another name with the '--name' option.
+(base) 
+󰀵  󱑍 16:43  ﱮ Krishna-Website    LIVE $!?+5 ✗  git submodule add -b main git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git src/data/blog
+
+fatal: A git directory for 'src/data/blog' is found locally with remote(s):
+  origin        git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+If you want to reuse this local git directory instead of cloning again from
+  git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+use the '--force' option. If the local git directory is not the correct repo
+or you are unsure what this means choose another name with the '--name' option.
+(base) 
+󰀵  󱑍 16:43  ﱮ Krishna-Website    LIVE $!?+5 ✗  git submodule deinit -f -- src/data/blog
+
+error: pathspec 'src/data/blog' did not match any file(s) known to git
+(base) 
+󰀵  󱑍 16:43  ﱮ Krishna-Website    LIVE $!?+5 ✗  git rm -rf src/data/blog
+
+fatal: pathspec 'src/data/blog' did not match any files
+(base) 
+󰀵  󱑍 16:43  ﱮ Krishna-Website    LIVE $!?+5 ✗  git config --file .gitmodules --get-regexp path 
+(base) 
+󰀵  󱑍 16:44  ﱮ Krishna-Website    LIVE $!?+5 ✗  nano .gitmodules
+(base) 
+󰀵  󱑍 16:44  ﱮ Krishna-Website    LIVE $!?+5 ➜  git config --remove-section submodule.src/data/blog
+fatal: no such section: submodule.src/data/blog
+(base) 
+󰀵  󱑍 16:44  ﱮ Krishna-Website    LIVE $!?+5 ✗  ls -la src/data/blog
+ls: src/data/blog: No such file or directory
+(base) 
+󰀵  󱑍 16:45  ﱮ Krishna-Website    LIVE $!?+5 ✗  rm -rf src/data/blog
+(base) 
+󰀵  󱑍 16:45  ﱮ Krishna-Website    LIVE $!?+5 ➜  git rm --cached src/data/blog
+
+fatal: pathspec 'src/data/blog' did not match any files
+(base) 
+󰀵  󱑍 16:45  ﱮ Krishna-Website    LIVE $!?+5 ✗  git commit -am "Removed broken submodule"
+
+[LIVE 417efe2b] Removed broken submodule
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+(base) 
+󰀵  󱑍 16:45  ﱮ Krishna-Website    LIVE $? ➜  git push origin LIVE
+Enumerating objects: 17, done.
+Counting objects: 100% (17/17), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (9/9), 807 bytes | 807.00 KiB/s, done.
+Total 9 (delta 4), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To https://github.com/Krishna-s-Time-Machine/Time-Machine.git
+   3543019f..417efe2b  LIVE -> LIVE
+(base) 
+󰀵  󱑍 16:45  ﱮ Krishna-Website    LIVE $? ➜  git submodule add -b main git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git src/data/blog
+
+fatal: A git directory for 'src/data/blog' is found locally with remote(s):
+  origin        git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+If you want to reuse this local git directory instead of cloning again from
+  git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git
+use the '--force' option. If the local git directory is not the correct repo
+or you are unsure what this means choose another name with the '--name' option.
+(base) 
+󰀵  󱑍 16:45  ﱮ Krishna-Website    LIVE $? ✗  git submodule add --force -b main git@github.com:ekrishnachaitanya2004/TIME-MACHINE-BLOGS.git src/data/blog
+Reactivating local git directory for submodule 'src/data/blog'
+(base) 
+󰀵  󱑍 16:46  ﱮ Krishna-Website    LIVE $+? ➜  git add .
+(base) 
+󰀵  󱑍 16:46  ﱮ Krishna-Website    LIVE $+ ➜  git status
+On branch LIVE
+Your branch is up to date with 'origin/LIVE'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   .gitmodules
+        new file:   netlify_deploy_key
+        new file:   netlify_deploy_key.pub
+        new file:   public/pagefind/fragment/en_16c4e2a.pf_fragment
+        new file:   public/pagefind/fragment/en_1c335e3.pf_fragment
+        new file:   public/pagefind/fragment/en_1ec252a.pf_fragment
+        new file:   public/pagefind/fragment/en_2d9ca7c.pf_fragment
+        new file:   public/pagefind/fragment/en_3412584.pf_fragment
+        new file:   public/pagefind/fragment/en_37398b5.pf_fragment
+        new file:   public/pagefind/fragment/en_419f868.pf_fragment
+        new file:   public/pagefind/fragment/en_4a2b47c.pf_fragment
+        new file:   public/pagefind/fragment/en_4c5a122.pf_fragment
+        new file:   public/pagefind/fragment/en_4d59844.pf_fragment
+        new file:   public/pagefind/fragment/en_4eeddb7.pf_fragment
+        new file:   public/pagefind/fragment/en_4f28734.pf_fragment
+        new file:   public/pagefind/fragment/en_57a63cc.pf_fragment
+        new file:   public/pagefind/fragment/en_581081d.pf_fragment
+        new file:   public/pagefind/fragment/en_5ea1be8.pf_fragment
+        new file:   public/pagefind/fragment/en_614f7df.pf_fragment
+        new file:   public/pagefind/fragment/en_62b1a37.pf_fragment
+        new file:   public/pagefind/fragment/en_6993b6a.pf_fragment
+        new file:   public/pagefind/fragment/en_6db33b2.pf_fragment
+        new file:   public/pagefind/fragment/en_7348c2b.pf_fragment
+        new file:   public/pagefind/fragment/en_7573ac5.pf_fragment
+        new file:   public/pagefind/fragment/en_7dff6f6.pf_fragment
+        new file:   public/pagefind/fragment/en_81b9746.pf_fragment
+        new file:   public/pagefind/fragment/en_8450f2e.pf_fragment
+        new file:   public/pagefind/fragment/en_8a64841.pf_fragment
+        new file:   public/pagefind/fragment/en_8b3fb42.pf_fragment
+        new file:   public/pagefind/fragment/en_8ffa3c3.pf_fragment
+        new file:   public/pagefind/fragment/en_90ebec9.pf_fragment
+        new file:   public/pagefind/fragment/en_95478c2.pf_fragment
+        new file:   public/pagefind/fragment/en_9ae1bd7.pf_fragment
+        new file:   public/pagefind/fragment/en_9de55f6.pf_fragment
+        new file:   public/pagefind/fragment/en_a3bf295.pf_fragment
+        new file:   public/pagefind/fragment/en_a53415b.pf_fragment
+        new file:   public/pagefind/fragment/en_a865cb4.pf_fragment
+        new file:   public/pagefind/fragment/en_ab3d766.pf_fragment
+        new file:   public/pagefind/fragment/en_adb2d72.pf_fragment
+        new file:   public/pagefind/fragment/en_ae2edc5.pf_fragment
+        new file:   public/pagefind/fragment/en_bc12b92.pf_fragment
+        new file:   public/pagefind/fragment/en_bd78a64.pf_fragment
+        new file:   public/pagefind/fragment/en_c1303e1.pf_fragment
+        new file:   public/pagefind/fragment/en_c32bc77.pf_fragment
+        new file:   public/pagefind/fragment/en_c363287.pf_fragment
+        new file:   public/pagefind/fragment/en_c462b58.pf_fragment
+        new file:   public/pagefind/fragment/en_c758905.pf_fragment
+        new file:   public/pagefind/fragment/en_c7cd8e1.pf_fragment
+        new file:   public/pagefind/fragment/en_d080151.pf_fragment
+        new file:   public/pagefind/fragment/en_dea5b38.pf_fragment
+        new file:   public/pagefind/fragment/en_e16f22a.pf_fragment
+        new file:   public/pagefind/fragment/en_e66deea.pf_fragment
+        new file:   public/pagefind/fragment/en_e7b1ecb.pf_fragment
+        new file:   public/pagefind/fragment/en_eedb2a6.pf_fragment
+        new file:   public/pagefind/fragment/en_f61b124.pf_fragment
+        new file:   public/pagefind/fragment/en_f66b62d.pf_fragment
+        new file:   public/pagefind/fragment/en_f7251a2.pf_fragment
+        new file:   public/pagefind/fragment/en_fd473db.pf_fragment
+        new file:   public/pagefind/index/en_519787a.pf_index
+        new file:   public/pagefind/index/en_5f722ea.pf_index
+        new file:   public/pagefind/index/en_95bf3d2.pf_index
+        new file:   public/pagefind/index/en_ccc53ea.pf_index
+        new file:   public/pagefind/pagefind.en_532829daf4.pf_meta
+        new file:   src/data/blog
+
+(base) 
+󰀵  󱑍 16:47  ﱮ Krishna-Website    LIVE $+ ➜  git submodule update --init --recursive
+
+(base) 
+󰀵  󱑍 16:47  ﱮ Krishna-Website    LIVE $+ ➜  git commit -am "Fixed submodule issue"
+
+[LIVE 9941cb94] Fixed submodule issue
+ 64 files changed, 55 insertions(+)
+ create mode 100644 netlify_deploy_key
+ create mode 100644 netlify_deploy_key.pub
+ create mode 100644 public/pagefind/fragment/en_16c4e2a.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_1c335e3.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_1ec252a.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_2d9ca7c.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_3412584.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_37398b5.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_419f868.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_4a2b47c.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_4c5a122.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_4d59844.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_4eeddb7.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_4f28734.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_57a63cc.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_581081d.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_5ea1be8.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_614f7df.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_62b1a37.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_6993b6a.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_6db33b2.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_7348c2b.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_7573ac5.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_7dff6f6.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_81b9746.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_8450f2e.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_8a64841.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_8b3fb42.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_8ffa3c3.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_90ebec9.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_95478c2.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_9ae1bd7.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_9de55f6.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_a3bf295.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_a53415b.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_a865cb4.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_ab3d766.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_adb2d72.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_ae2edc5.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_bc12b92.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_bd78a64.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_c1303e1.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_c32bc77.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_c363287.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_c462b58.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_c758905.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_c7cd8e1.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_d080151.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_dea5b38.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_e16f22a.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_e66deea.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_e7b1ecb.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_eedb2a6.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_f61b124.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_f66b62d.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_f7251a2.pf_fragment
+ create mode 100644 public/pagefind/fragment/en_fd473db.pf_fragment
+ create mode 100644 public/pagefind/index/en_519787a.pf_index
+ create mode 100644 public/pagefind/index/en_5f722ea.pf_index
+ create mode 100644 public/pagefind/index/en_95bf3d2.pf_index
+ create mode 100644 public/pagefind/index/en_ccc53ea.pf_index
+ create mode 100644 public/pagefind/pagefind.en_532829daf4.pf_meta
+ create mode 160000 src/data/blog
+(base) 
+󰀵  󱑍 16:47  ﱮ Krishna-Website    LIVE $ ➜  git push origin LIVE
+Enumerating objects: 78, done.
+Counting objects: 100% (78/78), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (70/70), done.
+Writing objects: 100% (71/71), 220.73 KiB | 31.53 MiB/s, done.
+Total 71 (delta 3), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+remote: error: GH013: Repository rule violations found for refs/heads/LIVE.
+remote: 
+remote: - GITHUB PUSH PROTECTION
+remote:   —————————————————————————————————————————
+remote:     Resolve the following violations before pushing again
+remote: 
+remote:     - Push cannot contain secrets
+remote: 
+remote:     
+remote:      (?) Learn how to resolve a blocked push
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push
+remote:     
+remote:      (?) This repository does not have Secret Scanning enabled, but is eligible. Enable Secret Scanning to view and manage detected secrets.
+remote:      Visit the repository settings page, https://github.com/Krishna-s-Time-Machine/Time-Machine/settings/security_analysis
+remote:     
+remote:     
+remote:       —— GitHub SSH Private Key ————————————————————————————
+remote:        locations:
+remote:          - commit: 9941cb941618aa2ff4586918628e0a3a282c65ab
+remote:            path: netlify_deploy_key:1
+remote:     
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.
+remote:        https://github.com/Krishna-s-Time-Machine/Time-Machine/security/secret-scanning/unblock-secret/2uiPw1Cmy3WBLfMimZSOgmhbWz3
+remote:     
+remote: 
+remote: 
+To https://github.com/Krishna-s-Time-Machine/Time-Machine.git
+ ! [remote rejected]   LIVE -> LIVE (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/Krishna-s-Time-Machine/Time-Machine.git'
+(base) 
+󰀵  󱑍 16:47  ﱮ Krishna-Website    LIVE $ ✗  git rm --cached netlify_deploy_key
+
+rm 'netlify_deploy_key'
+(base) 
+󰀵  󱑍 16:48  ﱮ Krishna-Website    LIVE $✘? ➜  git rm --cached netlify_deploy_key.pub
+
+rm 'netlify_deploy_key.pub'
+(base) 
+󰀵  󱑍 16:48  ﱮ Krishna-Website    LIVE $✘? ➜  rm -rf netlify_deploy_key netlify_deploy_key.pub
+
+(base) 
+󰀵  󱑍 16:48  ﱮ Krishna-Website    LIVE $✘ ➜  git commit -m "Removed private key file"
+
+[LIVE 44c6685c] Removed private key file
+ 2 files changed, 50 deletions(-)
+ delete mode 100644 netlify_deploy_key
+ delete mode 100644 netlify_deploy_key.pub
+(base) 
+󰀵  󱑍 16:48  ﱮ Krishna-Website    LIVE $ ➜  git push origin LIVE
+Enumerating objects: 80, done.
+Counting objects: 100% (80/80), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (72/72), done.
+Writing objects: 100% (73/73), 220.91 KiB | 27.61 MiB/s, done.
+Total 73 (delta 4), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (4/4), completed with 3 local objects.
+remote: error: GH013: Repository rule violations found for refs/heads/LIVE.
+remote: 
+remote: - GITHUB PUSH PROTECTION
+remote:   —————————————————————————————————————————
+remote:     Resolve the following violations before pushing again
+remote: 
+remote:     - Push cannot contain secrets
+remote: 
+remote:     
+remote:      (?) Learn how to resolve a blocked push
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push
+remote:     
+remote:      (?) This repository does not have Secret Scanning enabled, but is eligible. Enable Secret Scanning to view and manage detected secrets.
+remote:      Visit the repository settings page, https://github.com/Krishna-s-Time-Machine/Time-Machine/settings/security_analysis
+remote:     
+remote:     
+remote:       —— GitHub SSH Private Key ————————————————————————————
+remote:        locations:
+remote:          - commit: 9941cb941618aa2ff4586918628e0a3a282c65ab
+remote:            path: netlify_deploy_key:1
+remote:     
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.
+remote:        https://github.com/Krishna-s-Time-Machine/Time-Machine/security/secret-scanning/unblock-secret/2uiPw1Cmy3WBLfMimZSOgmhbWz3
+remote:     
+remote: 
+remote: 
+To https://github.com/Krishna-s-Time-Machine/Time-Machine.git
+ ! [remote rejected]   LIVE -> LIVE (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/Krishna-s-Time-Machine/Time-Machine.git'
+(base) 
+󰀵  󱑍 16:48  ﱮ Krishna-Website    LIVE $ ✗  git filter-branch --force --index-filter \
+"git rm --cached --ignore-unmatch netlify_deploy_key netlify_deploy_key.pub" \
+--prune-empty --tag-name-filter cat -- --all
+WARNING: git-filter-branch has a glut of gotchas generating mangled history
+         rewrites.  Hit Ctrl-C before proceeding to abort, then use an
+         alternative filtering tool such as 'git filter-repo'
+         (https://github.com/newren/git-filter-repo/) instead.  See the
+         filter-branch manual page for more details; to squelch this warning,
+         set FILTER_BRANCH_SQUELCH_WARNING=1.
+Proceeding with filter-branch...
+
+Rewrite 9941cb941618aa2ff4586918628e0a3a282c65ab (131/143) (11 seconds passed, remaining 1 predicted)    rm 'netlify_deploy_key'
+rm 'netlify_deploy_key.pub'
+Rewrite 44c6685cc3efb762fcefa4b1874160255f29b982 (143/143) (12 seconds passed, remaining 0 predicted)    
+Ref 'refs/heads/LIVE' was rewritten
+WARNING: Ref 'refs/heads/Time-Machine-2025' is unchanged
+WARNING: Ref 'refs/heads/main' is unchanged
+WARNING: Ref 'refs/remotes/origin/1.0' is unchanged
+WARNING: Ref 'refs/remotes/origin/main' is unchanged
+WARNING: Ref 'refs/remotes/origin/LIVE' is unchanged
+WARNING: Ref 'refs/remotes/origin/Time-Machine-2024' is unchanged
+WARNING: Ref 'refs/remotes/origin/Time-Machine-2025' is unchanged
+WARNING: Ref 'refs/remotes/origin/main' is unchanged
+Ref 'refs/stash' was rewritten
+WARNING: Ref 'refs/tags/1.0' is unchanged
+1.0 -> 1.0 (f200366f7ae83928902928549cb9e2610e596469 -> f200366f7ae83928902928549cb9e2610e596469)
+(base) 
+󰀵  󱑍 16:49  ﱮ Krishna-Website    LIVE $ ➜  git push origin --force --all
+Enumerating objects: 76, done.
+Counting objects: 100% (76/76), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (68/68), done.
+Writing objects: 100% (69/69), 217.97 KiB | 31.14 MiB/s, done.
+Total 69 (delta 3), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/Krishna-s-Time-Machine/Time-Machine.git
+   417efe2b..b9041736  LIVE -> LIVE
+(base) 
+󰀵  󱑍 16:49  ﱮ Krishna-Website    LIVE $ ➜        git log --oneline
+b9041736 (HEAD -> LIVE, origin/LIVE) Fixed submodule issue
+417efe2b Removed broken submodule
+3543019f Removed incorrectly added submodule TIME-MACHINE-BLOGS
+12e9d52c Updated blog submodule
+8bc63162 Re-added blog submodule correctly
+2fa8d7dd Removed incorrect submodule
+781a8eaa Re-added blog submodule
+cde1e0af Removed broken blog submodule
+0ccac024 Added private blog submodule correctly
+ece472a5 Removed blog submodule
+f12d68f9 Updated blog submodule
+086c451c script up and running
+277f13f8 Added GitHub Action to auto-update blog submodule
+a6e734b4 Added private blog repo as submodule
+e3224435 Removed existing blog folder to add submodule
+da139ffd old blog3
+fb2be36e aps done
+28c93344 update in datetime.astro
+80697af9 20mar2025
+8a2eeda7 BLOG:nov15ban
+446bc26c uemsh
+c13a87f6 call not answered
+33983fbc BLOG:shit
+49b5d60d BLOG:GPT
+cf68fe27 BLOG:GPT
+1779a125 NEW blog 1-1c
+08dc5ef2 (origin/Time-Machine-2025, Time-Machine-2025) NEW blog 1-1c
+ab9e41ce major update
+f200366f (tag: 1.0, origin/main, origin/Time-Machine-2024, origin/HEAD, origin/1.0, main) 28july2023
+1b85931b changes
+...skipping...
+b9041736 (HEAD -> LIVE, origin/LIVE) Fixed submodule issue
+417efe2b Removed broken submodule
+3543019f Removed incorrectly added submodule TIME-MACHINE-BLOGS
+12e9d52c Updated blog submodule
+8bc63162 Re-added blog submodule correctly
+2fa8d7dd Removed incorrect submodule
+781a8eaa Re-added blog submodule
+cde1e0af Removed broken blog submodule
+0ccac024 Added private blog submodule correctly
+ece472a5 Removed blog submodule
+f12d68f9 Updated blog submodule
+086c451c script up and running
+277f13f8 Added GitHub Action to auto-update blog submodule
+a6e734b4 Added private blog repo as submodule
+e3224435 Removed existing blog folder to add submodule
+da139ffd old blog3
+fb2be36e aps done
+28c93344 update in datetime.astro
+80697af9 20mar2025
+8a2eeda7 BLOG:nov15ban
+446bc26c uemsh
+c13a87f6 call not answered
+33983fbc BLOG:shit
+49b5d60d BLOG:GPT
+cf68fe27 BLOG:GPT
+1779a125 NEW blog 1-1c
+08dc5ef2 (origin/Time-Machine-2025, Time-Machine-2025) NEW blog 1-1c
+ab9e41ce major update
+f200366f (tag: 1.0, origin/main, origin/Time-Machine-2024, origin/HEAD, origin/1.0, main) 28july2023
+1b85931b changes
+b53686cf harshi gift
+5b8a1002 7 feb 2023
+19d219b4 blog:She Messaged… Then Ignored 😞
+
+zsh: suspended  git log --oneline
+(base) 
+󰀵  󱑍 16:54  ﱮ Krishna-Website    LIVE $ ✗  git reset --hard e3224435^
+warning: unable to rmdir 'src/data/blog': Directory not empty
+HEAD is now at da139ffd old blog3
+(base) 
+󰀵  󱑍 16:54  ﱮ Krishna-Website    LIVE $? ➜       git log --oneline    
+da139ffd (HEAD -> LIVE) old blog3
+fb2be36e aps done
+28c93344 update in datetime.astro
+80697af9 20mar2025
+8a2eeda7 BLOG:nov15ban
+446bc26c uemsh
+c13a87f6 call not answered
+33983fbc BLOG:shit
+49b5d60d BLOG:GPT
+cf68fe27 BLOG:GPT
+1779a125 NEW blog 1-1c
+08dc5ef2 (origin/Time-Machine-2025, Time-Machine-2025) NEW blog 1-1c
+ab9e41ce major update
+f200366f (tag: 1.0, origin/main, origin/Time-Machine-2024, origin/HEAD, origin/1.0, main) 28july2023
+1b85931b changes
+b53686cf harshi gift
+5b8a1002 7 feb 2023
+19d219b4 blog:She Messaged… Then Ignored 😞
+24393fec 17MAR2025
+eb33a8ee dream again
+8ce1843c she messaged me
+10e51e10 the end is near tweet add
+3fc1bbdc the end is near
+57c2165e removing the music functionality
+d5a8971e i am happy today she called me
+8592f61c i am happy today
+69f5a42c blog:Waiting for My Birthday Again…
+3048469f perfect sink of the songs ,even static
+489ccb36 best update ever3
+27ae8d7d best update ever
+
+zsh: suspended  git log --oneline
+(base) 
+󰀵  󱑍 16:54  ﱮ Krishna-Website    LIVE $? ✗  rm -rf .gitmodules
+
+(base) 
+󰀵  󱑍 16:54  ﱮ Krishna-Website    LIVE $? ➜  rm -rf src/data/blog
+
+(base) 
+󰀵  󱑍 16:54  ﱮ Krishna-Website    LIVE $✘ ➜  git rm -rf --cached src/data/blog
+
+rm 'src/data/blog/02NOV2023.md'
+rm 'src/data/blog/03NOV2023.md'
+rm 'src/data/blog/07FEB2023.md'
+rm 'src/data/blog/1-1C.md'
+rm 'src/data/blog/20MAR2025.md'
+rm 'src/data/blog/21MAR2025.md'
+rm 'src/data/blog/25042022.md'
+rm 'src/data/blog/28JULY2023.md'
+rm 'src/data/blog/BD2024.md'
+rm 'src/data/blog/Blog1.md'
+rm 'src/data/blog/CLG1.md'
+rm 'src/data/blog/CS50CS2024.md'
+rm 'src/data/blog/DESICISION PLAN.md'
+rm 'src/data/blog/Dream.md'
+rm 'src/data/blog/Dream3.md'
+rm 'src/data/blog/Dream4.md'
+rm 'src/data/blog/Dream8-1.md'
+rm 'src/data/blog/Dream8.md'
+rm 'src/data/blog/End of 2024-My Feelings.md'
+rm 'src/data/blog/FEB22.md'
+rm 'src/data/blog/FINAL DECISION.md'
+rm 'src/data/blog/FIRSTBLOG.md'
+rm 'src/data/blog/GPTTIME.md'
+rm 'src/data/blog/HARSHIJAN2025.md'
+rm 'src/data/blog/IDOLWEEKND.md'
+rm 'src/data/blog/KHC1.md'
+rm 'src/data/blog/KHC2.md'
+rm 'src/data/blog/KHC4.md'
+rm 'src/data/blog/KHC6.md'
+rm 'src/data/blog/LOOP.md'
+rm 'src/data/blog/Lost in a World That Isn’t Real.md'
+rm 'src/data/blog/MAR032025.md'
+rm 'src/data/blog/MFbitch.md'
+rm 'src/data/blog/NFC1.md'
+rm 'src/data/blog/NOTE.md'
+rm 'src/data/blog/NOV152024.md'
+rm 'src/data/blog/Overthinking is just killing me..md'
+rm 'src/data/blog/RLCF.md'
+rm 'src/data/blog/SCAMTEJA.md'
+rm 'src/data/blog/Stopagain2025.md'
+rm 'src/data/blog/WHYMARRY.md'
+rm 'src/data/blog/YEAREND2022.md'
+rm 'src/data/blog/YEAREND2023.md'
+rm 'src/data/blog/YEAREND2024.md'
+rm 'src/data/blog/Year-End2022.md'
+rm 'src/data/blog/adding-new-post.md'
+rm 'src/data/blog/blog2.md'
+rm 'src/data/blog/blog3.md'
+rm 'src/data/blog/dream2023.md'
+rm 'src/data/blog/harshieee.md'
+rm 'src/data/blog/ransomware.md'
+rm 'src/data/blog/suddden-call.md'
+rm 'src/data/blog/theendisnear.md'
+rm 'src/data/blog/umeshnov.md'
+(base) 
+󰀵  󱑍 16:55  ﱮ Krishna-Website    LIVE $✘ ➜  git commit -m "Cleaned up submodule files"
+[LIVE c312f8f2] Cleaned up submodule files
+ 54 files changed, 2865 deletions(-)
+ delete mode 100644 src/data/blog/02NOV2023.md
+ delete mode 100644 src/data/blog/03NOV2023.md
+ delete mode 100644 src/data/blog/07FEB2023.md
+ delete mode 100644 src/data/blog/1-1C.md
+ delete mode 100644 src/data/blog/20MAR2025.md
+ delete mode 100644 src/data/blog/21MAR2025.md
+ delete mode 100644 src/data/blog/25042022.md
+ delete mode 100644 src/data/blog/28JULY2023.md
+ delete mode 100644 src/data/blog/BD2024.md
+ delete mode 100644 src/data/blog/Blog1.md
+ delete mode 100644 src/data/blog/CLG1.md
+ delete mode 100644 src/data/blog/CS50CS2024.md
+ delete mode 100644 src/data/blog/DESICISION PLAN.md
+ delete mode 100644 src/data/blog/Dream.md
+ delete mode 100644 src/data/blog/Dream3.md
+ delete mode 100644 src/data/blog/Dream4.md
+ delete mode 100644 src/data/blog/Dream8-1.md
+ delete mode 100644 src/data/blog/Dream8.md
+ delete mode 100644 src/data/blog/End of 2024-My Feelings.md
+ delete mode 100644 src/data/blog/FEB22.md
+ delete mode 100644 src/data/blog/FINAL DECISION.md
+ delete mode 100644 src/data/blog/FIRSTBLOG.md
+ delete mode 100644 src/data/blog/GPTTIME.md
+ delete mode 100644 src/data/blog/HARSHIJAN2025.md
+ delete mode 100644 src/data/blog/IDOLWEEKND.md
+ delete mode 100644 src/data/blog/KHC1.md
+ delete mode 100644 src/data/blog/KHC2.md
+ delete mode 100644 src/data/blog/KHC4.md
+ delete mode 100644 src/data/blog/KHC6.md
+ delete mode 100644 src/data/blog/LOOP.md
+ delete mode 100644 "src/data/blog/Lost in a World That Isn\342\200\231t Real.md"
+ delete mode 100644 src/data/blog/MAR032025.md
+ delete mode 100644 src/data/blog/MFbitch.md
+ delete mode 100644 src/data/blog/NFC1.md
+ delete mode 100644 src/data/blog/NOTE.md
+ delete mode 100644 src/data/blog/NOV152024.md
+ delete mode 100644 src/data/blog/Overthinking is just killing me..md
+ delete mode 100644 src/data/blog/RLCF.md
+ delete mode 100644 src/data/blog/SCAMTEJA.md
+ delete mode 100644 src/data/blog/Stopagain2025.md
+ delete mode 100644 src/data/blog/WHYMARRY.md
+ delete mode 100644 src/data/blog/YEAREND2022.md
+ delete mode 100644 src/data/blog/YEAREND2023.md
+ delete mode 100644 src/data/blog/YEAREND2024.md
+ delete mode 100644 src/data/blog/Year-End2022.md
+ delete mode 100644 src/data/blog/adding-new-post.md
+ delete mode 100644 src/data/blog/blog2.md
+ delete mode 100644 src/data/blog/blog3.md
+ delete mode 100644 src/data/blog/dream2023.md
+ delete mode 100644 src/data/blog/harshieee.md
+ delete mode 100644 src/data/blog/ransomware.md
+ delete mode 100644 src/data/blog/suddden-call.md
+ delete mode 100644 src/data/blog/theendisnear.md
+ delete mode 100644 src/data/blog/umeshnov.md
+(base) 
+󰀵  󱑍 16:55  ﱮ Krishna-Website    LIVE $ ➜  git push origin LIVE --force
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 303 bytes | 303.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Krishna-s-Time-Machine/Time-Machine.git
+ + b9041736...c312f8f2 LIVE -> LIVE (forced update)
+(base) 
+󰀵  󱑍 16:55  ﱮ Krishna-Website    LIVE $ ➜        git log --oneline                   
+c312f8f2 (HEAD -> LIVE, origin/LIVE) Cleaned up submodule files
+da139ffd old blog3
+fb2be36e aps done
+28c93344 update in datetime.astro
+80697af9 20mar2025
+8a2eeda7 BLOG:nov15ban
+446bc26c uemsh
+c13a87f6 call not answered
+33983fbc BLOG:shit
+49b5d60d BLOG:GPT
+cf68fe27 BLOG:GPT
+1779a125 NEW blog 1-1c
+08dc5ef2 (origin/Time-Machine-2025, Time-Machine-2025) NEW blog 1-1c
+ab9e41ce major update
+f200366f (tag: 1.0, origin/main, origin/Time-Machine-2024, origin/HEAD, origin/1.0, main) 28july2023
+1b85931b changes
+b53686cf harshi gift
+5b8a1002 7 feb 2023
+19d219b4 blog:She Messaged… Then Ignored 😞
+24393fec 17MAR2025
+eb33a8ee dream again
+8ce1843c she messaged me
+10e51e10 the end is near tweet add
+3fc1bbdc the end is near
+57c2165e removing the music functionality
+d5a8971e i am happy today she called me
+8592f61c i am happy today
+69f5a42c blog:Waiting for My Birthday Again…
+3048469f perfect sink of the songs ,even static
+489ccb36 best update ever3
+
+zsh: suspended  git log --oneline
+(base) 
+󰀵  󱑍 16:56  ﱮ Krishna-Website    LIVE $ ✗  git reset --hard HEAD^
+HEAD is now at da139ffd old blog3
+(base) 
+󰀵  󱑍 16:56  ﱮ Krishna-Website    LIVE $ ➜  git push origin LIVE --force
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Krishna-s-Time-Machine/Time-Machine.git
+ + c312f8f2...da139ffd LIVE -> LIVE (forced update)
+(base) 
+󰀵  󱑍 16:56  ﱮ Krishna-Website    LIVE $ ➜  pnpm run dev
+
+> astro-paper@5.0.0 dev /Users/krishnachaitanya/Documents/GitHub/Krishna-Website
+> astro dev
+
+16:56:38 [types] Generated 1ms
+16:56:38 [content] Syncing content
+16:56:38 [content] Synced content
+16:56:38 [vite] Port 4321 is in use, trying another one...
+16:56:38 [vite] Port 4322 is in use, trying another one...
+16:56:38 [vite] Port 4323 is in use, trying another one...
+16:56:38 [vite] Port 4324 is in use, trying another one...
+16:56:38 [vite] Port 4325 is in use, trying another one...
+
+ astro  v5.4.2 ready in 1019 ms
+
+┃ Local    http://localhost:4326/
+┃ Network  use --host to expose
+
+16:56:38 watching for file changes...
+16:56:42 [200] / 109ms
+16:56:42 [404] /favicon.svg 6ms
+16:56:46 [200] /about 6ms
+16:56:47 [200] /archives 27ms
+16:56:47 [200] /archives 27ms
+^Z
+zsh: suspended  pnpm run dev
+(base) 
+󰀵  󱑍 16:57  ﱮ Krishna-Website    LIVE $ ✗  git add .
+(base) 
+󰀵  󱑍 16:57  ﱮ Krishna-Website    LIVE $+ ➜  git status
+On branch LIVE
+Your branch is up to date with 'origin/LIVE'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   src/data/blog/13SEP2022.md
+
+(base) 
+󰀵  󱑍 16:57  ﱮ Krishna-Website    LIVE $+ ➜  GIT_COMMITTER_DATE="2022-09-13 22:20:56" git commit --date="2022-09-13 22:20:56" -m "13sep"          
+[LIVE 7fa07b2f] 13sep
+ Date: Tue Sep 13 22:20:56 2022 +0530
+ 1 file changed, 99 insertions(+)
+ create mode 100644 src/data/blog/13SEP2022.md
+(base) 
+󰀵  󱑍 16:58  ﱮ Krishna-Website    LIVE $ ➜  git push
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 2.30 KiB | 2.30 MiB/s, done.
+Total 6 (delta 3), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/Krishna-s-Time-Machine/Time-Machine.git
+   da139ffd..7fa07b2f  LIVE -> LIVE
+(base) 
+󰀵  󱑍 16:58  ﱮ Krishna-Website    LIVE $ ➜  
